@@ -1,0 +1,8 @@
+git clone url
+save your android project in this url
+go inside the folder from git bash
+type the following commands
+git add .
+This adds the files into the folder creted on computer
+git commit -m "lalit"
+git push origin master
